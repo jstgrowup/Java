@@ -23,4 +23,4 @@ class House2 {
 - These steps together describes the whole JVM
 ![image](https://user-images.githubusercontent.com/40628582/224471217-09a279cd-a4bb-4929-813a-c4822ec6193c.png)
 
-- 
+- Installing IDE 
