@@ -53,3 +53,4 @@
   System.out.println(bool&b);
   System.out.println(bool|b);
   System.out.println(bool^b);
+   
